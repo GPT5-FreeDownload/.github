@@ -22,7 +22,6 @@ GPT-5 is the model everyone has been waiting for: deeper reasoning, near-instant
 | Capability | Details |
 | --- | --- |
 
-
 ## What's new over GPT-4
 
 - **One unified model** — no more switching between fast and smart versions; GPT-5 routes itself
